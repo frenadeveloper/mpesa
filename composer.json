@@ -1,0 +1,19 @@
+{
+    "name": "frena/mpesa",
+    "description": "This package will solve all mpesa APIs",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Frena\\Mpesa\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Frena Developer",
+            "email": "frenadeveloper@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
